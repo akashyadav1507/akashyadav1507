@@ -2,7 +2,8 @@
 
 >I am a graduate student pursuing Master's in Computer Science and Engineering.
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://wallpaperaccess.com/full/2541026.jpg"/></a>
+<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://wallpaperaccess.com/full/2541026.jpg"/></a> -->
+<a href="URL_REDIRECT" target="blank"><img align="center" height="500px" src="https://github.com/akashyadav1507/akashyadav1507/blob/main/icons/altumcode-dMUt0X3f59Q-unsplash.jpg"/></a>
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub community. I want to continue exploring this newfoundland, connect with more people and gain more learning experiences.
 
