@@ -1,5 +1,7 @@
 ### Hi there, I'm Akash👋
 
+>I am a graduate student pursuing Master's in Computer Science and Engineering.
+
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://wallpaperaccess.com/full/2541026.jpg"/></a>
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub community. I want to continue exploring this newfoundland, connect with more people and gain more learning experiences.
