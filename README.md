@@ -1,4 +1,4 @@
-### Hi there, I'm Akash👋
+### Hey there, I'm Akash👋
 
 >I am a graduate student pursuing Master's in Computer Science and Engineering.
 
